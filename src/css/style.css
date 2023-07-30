@@ -127,6 +127,14 @@ body {
     margin-left: 1em;
 }
 
+.lista__link a:hover{
+    color: #EF0000;
+}
+
+.lista__link a:active{
+    color: var(--botao-azul);
+}
+
 .rodape__texto {
     margin: 1em 0;
     color: var(--cinza-secundario);
